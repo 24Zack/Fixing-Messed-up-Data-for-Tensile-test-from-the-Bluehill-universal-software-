@@ -7,3 +7,20 @@ A solution for when the data is wrong because of the machine's error rather than
   git clone https://github.com/24Zack/Fixing-Messed-up-Data-for-Tensile-test-from-the-Bluehill-universal-software-
 
 ```
+
+## How to download the pandas library on your terminal
+```bash
+  pip install pandas
+
+```
+
+# Use of this project   
+
+When using the software Bluehill Universal to perform a tensile test in polymers, I had some problems when recording some data because of the systematic error that was made by the machine. 
+The error looked like:
+
+![image](https://github.com/user-attachments/assets/e4f29451-2ff4-413f-828f-7f17db55f6b3)
+
+Here, the first column is the time (s), the second colun is the displacement (mm) and the third column is the force (kN).
+The error was occuring in the displacement there since the machine was recording an erroned value every now and then.
+Therefore, since the data recorded during the tensile test is recorded around 20 thousand times, it is not effective and realistic to manually change every wrong value. That's why I designed the python program there using pandas library to solve that issue.
