@@ -14,7 +14,7 @@ A solution for when the data is wrong because of the machine's error rather than
 
 ```
 
-# Use of this project   
+# Use of this code
 
 When using the software Bluehill Universal to perform a tensile test in polymers, I had some problems when recording some data because of the systematic error that was made by the machine. 
 The error looked like:
