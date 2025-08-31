@@ -1,5 +1,6 @@
 # Fixing-Messed-up-Data-for-Tensile-test-from-the-Bluehill-universal-software-
 A solution for when the data is wrong because of the machine's error rather than performing the test a second time
+<img width="401" height="476" alt="Screenshot 2025-08-31 at 19 10 10" src="https://github.com/user-attachments/assets/624613be-e88b-40c3-84f6-8c7d508d20e9" />
 
 
 ## How to download and clone this project
